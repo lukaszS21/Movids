@@ -42,5 +42,7 @@
     }
     .BackGroundFooter{
         flex-direction: column;
+        height: 24em;
+        justify-content: normal;
     }
 }
